@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "859226523119",
+    "project_id": "chat-app-c406c",
+    "storage_bucket": "chat-app-c406c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859226523119:android:4575f7c926661b9cb9a21a",
+        "android_client_info": {
+          "package_name": "com.hossam.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859226523119-va2u9hjdvde258537hkkolhffheqgm6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnD2pgRKv4PUH9NxtAa6wPt_EZfRCiZig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859226523119-va2u9hjdvde258537hkkolhffheqgm6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
